@@ -1,0 +1,28 @@
+
+h1{
+	font-family:Algerian;
+	font-size:36;
+	color:#8B008B;
+	background-image:-webkit-linear-gradient(#FF981D, #FFFFFF);
+}
+body{
+	background-color: #BDB76B;
+}
+.worktop{
+	margin-left: 200px;
+}
+
+.table{
+	height:300px;
+	width:300px;
+    background-image:-webkit-linear-gradient(#00FF00, FFD53825);
+	float:right;
+	margin-top:-700px;
+	font-size:22;
+	color:#0000FF;
+	padding:10px;
+	border:5px solid #FF1493;
+	text-align: center;
+    border-radius: 10px;
+	
+}
